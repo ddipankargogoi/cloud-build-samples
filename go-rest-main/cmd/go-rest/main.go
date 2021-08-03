@@ -3,10 +3,10 @@ package main
 import (
 	"log"
 
-	"github.com/ddipankargogoi/go-rest/internal/animals"
-	"github.com/ddipankargogoi/go-rest/internal/api"
-	"github.com/ddipankargogoi/go-rest/internal/cars"
-	"github.com/ddipankargogoi/go-rest/internal/database"
+	"github.com/marcosap/go-rest/internal/animals"
+	"github.com/marcosap/go-rest/internal/api"
+	"github.com/marcosap/go-rest/internal/cars"
+	"github.com/marcosap/go-rest/internal/database"
 )
 
 func main() {

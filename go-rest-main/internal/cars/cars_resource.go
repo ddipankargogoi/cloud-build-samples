@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ddipankargogoi/go-rest/internal/api"
+	"github.com/marcosap/go-rest/internal/api"
 )
 
 type CarsResource struct{}

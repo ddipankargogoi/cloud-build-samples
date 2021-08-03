@@ -1,6 +1,6 @@
 package animals
 
-import "github.com/ddipankargogoi/go-rest/internal/database"
+import "github.com/marcosap/go-rest/internal/database"
 
 type Animal struct {
 	Type string `json:"type"`

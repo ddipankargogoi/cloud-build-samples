@@ -7,8 +7,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/ddipankargogoi/go-rest/internal/api"
-	"github.com/ddipankargogoi/go-rest/internal/database"
+	"github.com/marcosap/go-rest/internal/api"
+	"github.com/marcosap/go-rest/internal/database"
 )
 
 type AnimalsResource struct {
