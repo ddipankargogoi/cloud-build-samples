@@ -43,7 +43,7 @@ steps:
   - name: 'gcr.io/cloud-builders/gcloud'
     args: ['run', 'deploy', 'helloworld', 
            '--image=us-central1-docker.pkg.dev/cloudbuild-321108/go-docker-repo/myimage:$SHORT_SHA', 
-           '--region', 'us-central1', '--platform', 'managed']
+           '--region', 'asia-south1', '--platform', 'managed']
   # [END cloudbuild_go_deploy_yaml]
 
 # [START cloudbuild_go_logs_yaml]
